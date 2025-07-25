@@ -42,14 +42,11 @@
 
 | Módulo | Conteúdo | Status |
 |--------|----------|--------|
-| Módulo 1 | Introdução e Configuração | ✅ Concluído |
-| Módulo 2 | Criação da Primeira API REST | ⏳ Em andamento |
-| Módulo 3 | Persistência com JPA e Hibernate | ⏳ Próximo |
-| Módulo 4 | Segurança com Spring Security | ⏳ Em breve |
-| Módulo 5 | Testes Automatizados | ⏳ Em breve |
-| Módulo 6 | Deploy e Produção | ⏳ Em breve |
+| Seção 1 | Introdução e Configuração | ✅ Concluído |
+| Seção 2 | Criação da Primeira API REST | ✅ Concluído |
 
-📅 Atualizado em: **20/07/2025**
+
+📅 Atualizado em: **24/07/2025**
 
 ---
 
@@ -59,7 +56,17 @@
 - Estou aplicando as **melhores práticas** sempre que possível  
 - Repositório **atualizado conforme avanço**
 
+
+### Seção 1 | Introdução
+
+- Este módulo foi focado na instalação e configuração das ferramentas necessárias para o desenvolvimento com Spring Boot. Aprendi a baixar o Java JDK, configurar uma IDE para programar (como o IntelliJ), e instalar o Postman para testar as APIs.
+
+### Seção 2 | Primeiros Passos com Spring Boot
+
+- Nesta seção, tive meu primeiro contato prático com o Spring Boot. Aprendi a criar um projeto do zero usando o Spring Initializr e a adicionar as dependências certas para começar a desenvolver. Também entendi como funciona o padrão MVC (Model, View, Controller) e como ele ajuda a deixar o código mais organizado e fácil de manter. Comecei a trabalhar com o banco de dados H2, que roda na memória, e usei o JPA com Hibernate para salvar e manipular dados de forma simples. Para testar as funcionalidades da aplicação, utilizei o Postman, o que facilitou bastante na hora de enviar requisições e ver os resultados na prática.
+
 ---
+
 
 ## 🙋‍♂️ Sobre Mim  
 
