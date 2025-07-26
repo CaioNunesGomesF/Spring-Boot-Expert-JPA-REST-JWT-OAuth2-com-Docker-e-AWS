@@ -23,12 +23,12 @@
 
 #### 🧪 Testes  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=JUnit" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 #### 🧰 Ferramentas Auxiliares  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,idea,maven,git" />
+  <img src="https://skillicons.dev/icons?i=idea,maven,git" />
 </p>
 
 #### ☁️ Deploy e Documentação  
