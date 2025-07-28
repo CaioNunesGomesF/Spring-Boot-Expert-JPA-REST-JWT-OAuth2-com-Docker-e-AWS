@@ -17,12 +17,13 @@ public class Application {
 		SpringApplicationBuilder builder = new SpringApplicationBuilder(Application.class);
 
 		builder.bannerMode(Banner.Mode.OFF);
-		ConfigurableApplicationContext applicationContext = builder.context();
-		var  produtoRepository = applicationContext.getBean("produtoRepository");
+        builder.profiles("producao");
+
+
 		builder.run(args);
 
-		builder.profiles("producao");
-
+        ConfigurableApplicationContext applicationContext = builder.context();
+        //var  produtoRepository = applicationContext.getBean("produtoRepository");
 	}
 
 }
