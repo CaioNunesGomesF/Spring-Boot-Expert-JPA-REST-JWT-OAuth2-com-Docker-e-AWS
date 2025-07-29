@@ -17,6 +17,10 @@ public class TodoEntity {
     @Column(name = "fl_conluido")
     private Boolean conluido;
 
+    public TodoEntity(){
+
+    }
+
     public TodoEntity(Integer id, String descricao, Boolean conluido) {
         this.id = id;
         this.descricao = descricao;
