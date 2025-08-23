@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: Arquitetura Spring
+  jpa:
+    show-sql: true
+
+app:
+  montadora:
+    motor-padrao: 130
+  config:
+    variavel: x
+    valor1: 500
