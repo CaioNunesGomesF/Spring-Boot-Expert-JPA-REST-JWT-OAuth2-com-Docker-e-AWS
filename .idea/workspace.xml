@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6decc85e-f50b-4a6b-9195-3c1576e819f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/AppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/ExemploValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/montadora/api/ConfiguracaoAcessoEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/.idea/Seção 3 - Arquitetura e Estrutura do Framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/.idea/Seção 3 - Arquitetura e Estrutura do Framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/BeanGerenciado.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/BeanGerenciado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/montadora/configuration/MontadoraConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/java/com/caionunes/arquiteturaspring/montadora/configuration/MontadoraConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 3 - Arquitetura e Estrutura do Framework/arquiteturaspring/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +27,21 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/linux-caion/Área de trabalho/Spring-Boot-Expert-JPA-REST-JWT-OAuth2-com-Docker-e-AWS",
+    "last_opened_file_path": "/home/linux-caion/Área de trabalho/Spring-Boot-Expert-JPA-REST-JWT-OAuth2-com-Docker-e-AWS/Seção 4: Acesso a Dados Com Spring Data\tJPA/libraryapi",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seção 4: Acesso a Dados Com Spring Data&#9;JPA" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6decc85e-f50b-4a6b-9195-3c1576e819f9" name="Changes" comment="" />
